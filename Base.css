@@ -1,0 +1,219 @@
+#ControlUnit{
+	fill:grey !important}
+#RegisterFile{
+	fill:grey !important}
+#SignExtend{
+	fill:grey !important}
+#path7155{
+	stroke:grey !important}
+#path7157{
+	stroke:grey !important}
+#path7159{
+	stroke:grey !important}
+#path7167{
+	stroke:grey !important}
+#path7169{
+	stroke:grey !important}
+#path7171{
+	stroke:grey !important}
+#path7173{
+	stroke:grey !important}
+#path7776{
+	stroke:grey !important}
+#path7778{
+	stroke:grey !important}
+#path7780{
+	stroke:grey !important}
+#path7165{
+	stroke:grey !important}
+#path7852{
+	stroke:grey !important}
+#path7854{
+	stroke:grey !important}
+#PCPlus4M{
+	stroke:grey !important}
+#RegWriteD{
+	stroke:grey !important}
+#MemtoRegD{
+	stroke:grey !important}
+#MemWriteD{
+	stroke:grey !important}
+#AluControlD{
+	stroke:grey !important}
+#InstructionMemory{
+	fill:grey !important}
+#fwdA{
+	stroke:grey !important}
+#fwdB{
+	stroke:grey !important}
+#fwdA_0{
+	stroke:grey !important}
+#fwdA_1{
+	stroke:grey !important}
+#fwdA_2{
+	stroke:grey !important}
+#fwdB_0{
+	stroke:grey !important}
+#fwdB_1{
+	stroke:grey !important}
+#fwdB_2{
+	stroke:grey !important}
+#ALUSrc_0{
+	stroke:grey !important}
+#ALUSrc_1{
+	stroke:grey !important}
+#RsE{
+	stroke:grey !important}
+#PCPlus4Adder{
+	fill:grey !important}
+#DataMemory{
+	fill:grey !important}
+#BranchCheck{
+	fill:grey !important}
+#fwdCMux{
+	fill:grey !important}
+#DataMemAddr{
+	stroke:grey !important}
+#fwdC_0{
+	stroke:grey !important}
+#fwdC_1{
+	stroke:grey !important}
+#fwdC{
+	stroke:grey !important}
+#ALUOutM{
+	stroke:grey !important}
+#PC{
+	fill:grey !important}
+#MemtoRegMux{
+	fill:grey !important}
+#RegWriteData{
+	stroke:grey !important}
+#WriteRegW{
+	stroke:grey !important}
+#path7836{
+	stroke:grey !important}
+#ReadDataW{
+	stroke:grey !important}
+#AluOutW{
+	stroke:grey !important}
+#RegWriteW{
+	stroke:grey !important}
+#MemtoRegW{
+	stroke:grey !important}
+#InstrMemOut{
+	stroke:grey !important}
+#PC_in{
+	stroke:grey !important}
+#PCOut{
+	stroke:grey !important}
+#PC_val{
+	stroke:grey !important}
+#path7147{
+	stroke:grey !important}
+#DataMemIn{
+	stroke:grey !important}
+#DataMemOut{
+	stroke:grey !important}
+#WriteRegM{
+	stroke:grey !important}
+#ALUOutfwd{
+	stroke:grey !important}
+#path4677{
+	stroke:grey !important}
+#path7870{
+	stroke:grey !important}
+#RegWriteM{
+	stroke:grey !important}
+#MemtoRegM{
+	stroke:grey !important}
+#MemWriteM{
+	stroke:grey !important}
+#BranchM{
+	stroke:grey !important}
+#RtE{
+	stroke:grey !important}
+#RdE{
+	stroke:grey !important}
+#RegWriteE{
+	stroke:grey !important}
+#MemtoRegE{
+	stroke:grey !important}
+#MemWriteE{
+	stroke:grey !important}
+#AluControlE{
+	stroke:grey !important}
+#AluSrcE{
+	stroke:grey !important}
+#RegDstE{
+	stroke:grey !important}
+#BranchE{
+	stroke:grey !important}
+#opr1{
+	stroke:grey !important}
+#opr2{
+	stroke:grey !important}
+#ALUOutE{
+	stroke:grey !important}
+#WriteDataE{
+	stroke:grey !important}
+#WriteRegE{
+	stroke:grey !important}
+#BranchAddr{
+	stroke:grey !important}
+#PCPlus4E{
+	stroke:grey !important}
+#SignImmE{
+	stroke:grey !important}
+#path7365{
+	stroke:grey !important}
+#path7798{
+	stroke:grey !important}
+#path7796{
+	stroke:grey !important}
+#fwdAMux{
+	fill:grey !important}
+#fwdBMux{
+	fill:grey !important}
+#RegDstMux{
+	fill:grey !important}
+#AluSrcMux{
+	fill:grey !important}
+#ALU{
+	fill:grey !important}
+#Shifter{
+	fill:grey !important}
+#BranchAdder{
+	fill:grey !important}
+#AluSrcD{
+	stroke:grey !important}
+#RegDstD{
+	stroke:grey !important}
+#BranchD{
+	stroke:grey !important}
+#PCSrcM{
+	stroke:grey !important}
+#PC_Src_1{
+	stroke:grey !important}
+#PC_Src_0{
+	stroke:grey !important}
+#PcSrcMux{
+	fill:grey !important}
+#RD1out{
+	stroke:grey !important}
+#RD2out{
+	stroke:grey !important}
+#Fetch{
+	visibility: hidden !important 
+}
+#Decode{
+	visibility: hidden !important 
+}
+#Execute{
+	visibility: hidden !important 
+}
+#Memory{
+	visibility: hidden !important 
+}
+#Write-Back{
+	visibility: hidden !important 
+}
